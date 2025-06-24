@@ -1,4 +1,4 @@
-Supply Chain Performance Dashboard
+📊 Supply Chain Performance Dashboard
 
 An interactive Supply Chain Performance Dashboard developed using Microsoft Power BI during a 4-week virtual internship under the Skills4Future program, jointly organized by AICTE, Shell India Markets Pvt. Ltd., and Edunet Foundation.
 The dashboard is designed to provide actionable insights into key supply chain metrics and promote green skills by integrating sustainability-focused analytics.
